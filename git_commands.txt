@@ -1,0 +1,6 @@
+git status
+git init
+git add(file name)
+git rm-cached (file name)
+git commit -m "added testing files"
+git restore (file name)
